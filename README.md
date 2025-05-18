@@ -10,5 +10,5 @@
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=UndoneMajor&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
-  ![](https://github-contributor-stats.vercel.app/api?username=undonemajor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=undonemajor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
