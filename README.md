@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://tenor.com/view/joji-nectar-no-sus-gif-23380264"  />
+  <img height="150" src="https://i.imgflip.com/9udgiv.gif"  />
 </div>
 
 ###
